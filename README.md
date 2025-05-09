@@ -55,5 +55,3 @@ OSMI Mental Health Survey
 
 Flask, Scikit-learn
 
-### CONTRIBUTING
-Contributions are welcome! Feel free to open issues or pull requests for any improvements or new features you would like to see
